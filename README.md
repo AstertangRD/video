@@ -17,9 +17,4 @@ Committed to AI enabling cost reduction and efficiency.
 ![示例图片](./works/wine.png "白酒，产品在方体台子上，暖色光影，强光源，环境光,")
 
 ### Video
-
-<iframe width="460" height="460" src="https://player.bilibili.com/player.html?aid=1103558911" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <iframe src="//player.bilibili.com/player.html?aid=1103558911&bvid=BV1qw4m127jG&cid=1520733257&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-<!--
-<iframe src="https://player.bilibili.com/player.html?aid=1103558911&bvid=BV1qw4m127jG&cid=1520733257&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
--->
+<iframe width="500" height="280" src="https://player.bilibili.com/player.html?aid=1103558911" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
