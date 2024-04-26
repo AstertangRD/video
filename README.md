@@ -17,5 +17,3 @@ Committed to AI enabling cost reduction and efficiency.
 ![示例图片](./works/wine.png "白酒，产品在方体台子上，暖色光影，强光源，环境光,")
 
 ### Video
-
-#### View
