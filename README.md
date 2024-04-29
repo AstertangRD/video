@@ -20,4 +20,4 @@ Committed to AI enabling cost reduction and efficiency.
 
 #### view
 
-![示例视频](https://github.com/AstertangRD/video/blob/main/works/view-1.gif "view")
+![示例视频](./works/view-1.gif "view")
