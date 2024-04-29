@@ -20,5 +20,4 @@ Committed to AI enabling cost reduction and efficiency.
 
 #### view
 
-[小红书视频床]()
 [![view](https://s1.imagehub.cc/images/2024/04/29/da7d442e2e937b4eda26a8f303c62fa8.png "view-1.1")](//player.bilibili.com/player.html?aid=1103558911)
